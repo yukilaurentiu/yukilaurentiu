@@ -1,5 +1,6 @@
-### Hi there 👋 I am YUKI  ✨
+<h2 align="center"> Hello, I am YUKI  👋✨</h2>
 
+- 👩‍🎓 I've just finished ... Le Wagon Bootcamp(batch#990) <a href="https://www.lewagon.com/" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5470001?s=200&amp;v=4" width="25" height="25" alt="lewagon"></a>
 - 🔭 I’m currently working on ... [task organizer](https://github.com/yukilaurentiu/task_organizer)
 - 🌱 I’m currently learning ... <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25"/> </a>
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="25" height="25"/> </a>
