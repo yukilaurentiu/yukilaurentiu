@@ -2,7 +2,7 @@
 
 ###  About ME
 - 👩‍🎓 I've finished ... Le Wagon Bootcamp(batch#990) <a href="https://www.lewagon.com/" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5470001?s=200&amp;v=4" width="25" height="25" alt="lewagon"></a>
-- 🔭 I’m currently working on collaboration projects ... [Timeconvie](https://github.com/philippe-laurentiu/Timeconvie) and [travelmap](https://github.com/yukilaurentiu/travelmap)
+- 🔭 I’m currently working on collaboration projects ... [Timeconvie](https://github.com/philippe-laurentiu/Timeconvie)
 - 🌱 I’m currently learning ...<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/> </a> 
  - ❤️ I love ... Travelling, Hiking, Talking, Coffee, Cheesecake and Sea otter🦦
