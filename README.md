@@ -3,7 +3,7 @@
 ###  About ME
 - 👩‍🎓 I've finished ... Le Wagon Bootcamp(batch#990) <a href="https://www.lewagon.com/" target="blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5470001?s=200&amp;v=4" width="25" height="25" alt="lewagon"></a>
 - 🔭 I’m currently working on collaboration projects ... [grow-guzzle](https://github.com/yukilaurentiu/grow_guzzle)
-- 🌱 I’m currently learning ...<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/> </a>
+- 🌱 I’m currently learning ...<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="25" height="25"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="25" height="25"/> </a> 
  - ❤️ I love ... Travelling, Hiking, Talking, Coffee, Cheesecake and Sea otter🦦
 - 🤗 Connect with me ... <a href="https://www.linkedin.com/in/yukiko-laurentiu-7a4415240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yukiko laurentiu" height="25" width="25" /></a>
